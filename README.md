@@ -68,7 +68,7 @@ Feel free to fork the project and submit a pull request! Here's how to contribut
 
 ## Screenshots
 
-### Home Page
+### TaskApp
 ![my-app](my-app/public/Screenshots)
 
 ---

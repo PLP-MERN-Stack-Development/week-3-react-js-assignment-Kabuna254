@@ -33,8 +33,8 @@ TaskApp is a responsive task management application built with **React**, **Vite
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Kabuna254/taskapp.git
-cd taskapp
+git clone https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-Kabuna254.git
+cd my-app
 ```
 
 ### 2. Install dependencies

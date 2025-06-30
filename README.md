@@ -69,7 +69,7 @@ Feel free to fork the project and submit a pull request! Here's how to contribut
 ## Screenshots
 
 ### Home Page
-![my-app](public/Screenshots)
+![my-app](my-app/public/Screenshots)
 
 ---
 
